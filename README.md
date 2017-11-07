@@ -1,1 +1,1 @@
-Hello this is the fun repo
+This is just a repo to practice very simple programming concepts
