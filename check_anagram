@@ -1,0 +1,11 @@
+# Checking if two strings are anagram of each other
+
+# Created a new function with two strings parameters
+
+def str_anagram(str1, str2):
+    return set(list(str1)) == set(list(str2))
+    
+    
+# Created a list of independent charater of the input string 
+# Created the set of those character; sets do not have index number
+# This would return you if the anagram is successful or not. 
